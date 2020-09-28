@@ -1,0 +1,55 @@
+Bit I:
+	Smallest XOR
+	Count Total Set Bits
+Bit II:
+	Sum of pairwise Hamming Dist.
+	Min XOR Value
+	Multiple XOR's
+	Maximum XOR
+	Subarrays XOR less than B
+Two ptr:
+	Diffk
+	3 Sum
+	Container with most water
+	Minimize the abs. diff.
+	Count of pairs with given sum.
+Binary Search I:
+	Square root of int.
+	Reverse sorted array search
+	Sorted insert position
+	Find peak element
+Binary Search II:
+	Matrix Search
+	Median of Array
+	Search for a range
+	Mathrix Median
+	Single element in sorted array
+Binary Search III:
+	Painter's partition problem
+	Maximum height of staircase
+	Aggressive cows
+	Smallest good base
+	Special integer
+Hashing:
+	Longest Consecutive Subsequence
+	Anagrams
+	Sub-array with 0 sum
+	Count right triangles
+Strings I:
+	Compare Sorted Subarrays
+	Replicating Substring
+Strings II:
+	Integer to roman
+	Atoi
+	Compare version numbers
+	Add Binary Strings
+Stacks:
+	Evalute Expression
+	Nearest Smaller Element
+	Balanced Parenthesis
+	Sort Stack using another Stack
+Linked List:
+	Swap link nodes in pasirs
+	Merge two sorted Lists
+	Remove nth node from list end
+	Delete middle node of a linked list
